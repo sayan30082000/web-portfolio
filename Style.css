@@ -55,7 +55,7 @@ section{
     color:darkmagenta;
 }
 .dream-area{
-    background-image: url("images/dream-bg.png");
+    background: url("images/dream-bg.png");
     background-repeat:no-repeat;
     background-position: right;
 }
