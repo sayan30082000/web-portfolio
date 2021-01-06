@@ -36,7 +36,7 @@ p{  font-size: 20px;
 }
 .exp-bg{
     
-    background-image: url("images/exp-bg.png");
+    background-image: url("Images/exp-bg.png");
     background-repeat: no-repeat;
 }
 section{
@@ -55,12 +55,12 @@ section{
     color:darkmagenta;
 }
 .dream-area{
-    background: url("images/dream-bg.png");
+    background: url("Images/dream-bg.png");
     background-repeat:no-repeat;
     background-position: right;
 }
 .experience-area{
-    background-image: url("images/top-banner.png");
+    background-image: url("Images/top-banner.png");
     background-position: left;
     background-repeat: no-repeat;
 }
